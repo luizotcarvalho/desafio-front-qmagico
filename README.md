@@ -6,10 +6,10 @@ Se você ainda não se cadastrou no nosso site, faça isso para iniciar o seu pr
 
 http://www.qmagico.com.br/contato/entre_para_o_time
 
-### O Desafio
+### O Desafio:
 Implementar uma única página da melhor forma possível, utilizando HTML5, SASS, animações, gulp e angularJS (opcional).
 
-### Serão avaliados os aspectos:
+### Serão avaliados aspectos como:
 * Organização de código
 * Responsividade
 * Reaproveitamento de código
